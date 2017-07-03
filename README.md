@@ -36,6 +36,8 @@ git@github.com:Jacksgong/filedownloader-okhttp3-connection.git
 
 Execute `./refresh.sh` to refresh env
 
+![](https://github.com/Jacksgong/android-project-combine/raw/master/arts/refresh-demo.gif)
+
 #### Step 3. Open on the Android Studio
 
 Open alipay-project-combine on the Android Studio.
