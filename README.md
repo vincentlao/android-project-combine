@@ -42,6 +42,8 @@ Execute `./refresh.sh` to refresh env
 
 Open alipay-project-combine on the Android Studio.
 
+![](https://github.com/Jacksgong/android-project-combine/raw/master/arts/android-studio-demo.gif)
+
 
 ## TODO LIST
 
