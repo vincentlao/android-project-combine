@@ -56,6 +56,8 @@ Open android-project-combine on the Android Studio.
 .
 ├── .combine                       // all combine python script folder
 │   ├── combine.py                 // scan projects and generated env
+│   ├── combine-common.gradle      // common gradle for combine project
+│   ├── combine-res-common.gradle  // common gradle for mock resources modules
 │   ├── res_generator.py           // scan projects resources and generated mock resources module  
 │   ├── res_utils.py               // utils for 'res_generator.py' 
 │   └── utils.py                   // utils for 'combine.py'
