@@ -1,6 +1,10 @@
 # Android Project Combine
 
-Combine multiple android projects on one Android Studio window.
+![](https://img.shields.io/badge/combine-project-origin.svg)
+![](https://img.shields.io/badge/combine-safely-green.svg)
+![](https://img.shields.io/badge/combine-easily-green.svg)
+
+Combine multiple android projects on one Android Studio window safely and easily, which just mock a combined project contains multiple projects, so you just open combine project on Android Studio to maintain those projects.
 
 ## WHAT ABOUT THIS?
 
